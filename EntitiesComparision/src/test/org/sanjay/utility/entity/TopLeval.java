@@ -2,7 +2,7 @@
  * Copyright (C) 2014, 2015 Sanjay Madnani
  *
  * This file is free to use: you can redistribute it and/or modify it under the terms of the 
- * GNU General Public License as published by the Free Software Foundation, subject to the following conditions:
+ * GPL General Public License V3 as published by the Free Software Foundation, subject to the following conditions:
  *                                                                                          
  * The above copyright notice should never be changed and should always included wherever this file is used.
  *                                                                                          
